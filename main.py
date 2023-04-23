@@ -18,7 +18,7 @@ def homepage():
  ╚████╔╝ ███████╗██╔╝ ██╗██║██║ ╚████║
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 
-EDITED BY tristan#1000
+UI BY tristan#1000
 """)
 
     print(colored("".center(80, "="), "cyan"))
